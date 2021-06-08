@@ -1,0 +1,18 @@
+[
+    {
+        "nome": "Luiz Gustavo",
+        "password": "flamengo15",
+        "email": "luizgustavo151999@gmail.com",
+        "cpf": "04137800235",
+        "endereco": "Francisco Quintal",
+        "nascimento": "15/07/1999"
+    },
+    {
+        "nome": "Paulo Favacho",
+        "password": "123456789",
+        "email": "paulo@gmail.com",
+        "cpf": "00000000000",
+        "endereco": "Francisco Quintal",
+        "nascimento": "15/07/1999"
+    }
+]
