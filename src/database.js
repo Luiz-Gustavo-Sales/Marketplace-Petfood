@@ -10,8 +10,6 @@ const banco_ = mongoose.connect(
 );
  */
 
-
-
 const URI = mongoose.connect(
   "mongodb+srv://admin:admin@cluster0-xsmns.mongodb.net/Test?retryWrites=true&w=majority",
   {

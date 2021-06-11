@@ -24,7 +24,7 @@
 
 ---
 
-## 📁  Como baixar o projeto
+## 📁 Como baixar o projeto
 ```bash
 #Clona o repositorio
 $ git clone https://github.com/Luiz-Gustavo-Sales/Marketplace-Petfood.git
